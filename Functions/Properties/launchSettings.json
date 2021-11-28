@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Functions": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
